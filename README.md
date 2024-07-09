@@ -11,7 +11,7 @@ O processo de análise abrange etapas como:
 - compartilhar
 - agir
 
-Culminando na apresentação das conclusões e recomendações à equipe executiva da empresa. O relatório completo da análise pode ser consultada [**neste link**]().
+Culminando na apresentação das conclusões e recomendações à equipe executiva da empresa. O projeto completo da análise pode ser consultada [**neste link**](https://github.com/andersonpaiva-cd/Google-Bellabeat/blob/main/bellabeat-analise.ipynb).
 
 ## Conclusão
 A conclusão do estudo revela insights significativos a partir da análise de dados de dispositivos inteligentes:
