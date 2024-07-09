@@ -1,2 +1,2 @@
-# Google-Bellabeat
-Análise de dados - Projeto de Estudo Bellabeat
+# Análise de dados - Projeto de Estudo Bellabeat
+O projeto em questão é baseado em um estudo de caso do curso de Data Analytics do Google, centrado na empresa fictícia Bellabeat, que fabrica produtos de tecnologia para saúde feminina. A empresa, apesar de bem-sucedida, busca expandir sua presença no mercado global de dispositivos inteligentes. O objetivo do estudo é analisar dados de condicionamento físico provenientes desses dispositivos para fornecer insights que possam orientar a estratégia de marketing da Bellabeat. O processo de análise abrange etapas como perguntar, preparar, processar, analisar, compartilhar e agir, culminando na apresentação das conclusões e recomendações à equipe executiva da empresa.
