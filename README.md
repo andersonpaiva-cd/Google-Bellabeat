@@ -26,7 +26,7 @@ Os dados destacam padrões como a prevalência de registros de passos abaixo da 
 ### &nbsp;&nbsp;Anderson Paiva
 
 <p>
-&nbsp;&nbsp;Estudante De Ciência De Dados / Business Intelligence / Analista De Dados<br/>
+&nbsp;&nbsp;Business Intelligence | Power BI | SQL | Python | Dados<br/>
 &nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/andersonpaiva-da/<br/>
 &nbsp;&nbsp;E-mail: andersonpaivads@gmail.com<br/>
 </p>
